@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "EB_Garamond";
+    src : local("EB_Garamond"),
+    url("./fonts/EB_Garamond/EBGaramond-Italic-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Helvetica_Font_Family";
+    src : local("Helvetica_Font_Family"),
+    url("./fonts/Helvetica_Font_Family/Helvetica\ 400.ttf") format("truetype");
+}
